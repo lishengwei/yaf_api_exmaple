@@ -1,0 +1,8 @@
+{
+    "name": "yaf/arm-service-api",
+    "description": "机械臂服务api",
+    "require": {
+        "monolog/monolog": "*",
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
